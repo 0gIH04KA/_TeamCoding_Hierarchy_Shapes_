@@ -55,6 +55,9 @@
   <ItemGroup>
     <Folder Include="Business_Logic\" />
     <Folder Include="Controller\" />
+    <Folder Include="Model_Project\Hierarchy\1 Level\" />
+    <Folder Include="Model_Project\Hierarchy\2 Level\" />
+    <Folder Include="Model_Project\Hierarchy\3 Level\" />
     <Folder Include="User_Interface\" />
     <Folder Include="View_Project\" />
   </ItemGroup>
