@@ -65,6 +65,17 @@ namespace _02_03_2020_TeamCoding_Hierarchy_Shapes_
 
         #region ---===    Constructor    ===---
 
+        public Point(int x, int y)
+        {
+            PosX = x;
+            PosY = y;
+        }
+
+        public Point(Point point)
+            : this(point.PosX, point.PosY)
+        {
+        }
+
         #endregion
     }
 }
