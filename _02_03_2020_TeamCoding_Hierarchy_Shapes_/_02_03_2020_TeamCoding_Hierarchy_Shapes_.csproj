@@ -63,5 +63,8 @@
     <Folder Include="Model_Project\Hierarchy\2 Level\" />
     <Folder Include="Model_Project\Hierarchy\3 Level\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="View_Project\Icon\icon.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
