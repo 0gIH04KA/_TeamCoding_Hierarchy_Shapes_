@@ -50,7 +50,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Model_Project\" />
+    <Folder Include="Controller\" />
+    <Folder Include="Model_Project\Inreface\" />
     <Folder Include="View_Project\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
