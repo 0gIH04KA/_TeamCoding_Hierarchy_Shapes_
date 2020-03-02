@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\Business_Logic\BL.cs" />
     <Compile Include="Model_Project\ENUM\Constant.cs" />
     <Compile Include="Model_Project\ENUM\Direction.cs" />
     <Compile Include="Model_Project\ENUM\Action.cs" />
@@ -58,8 +59,6 @@
     <None Include="Model_Project\Class_Diagram\ClassDiagram1.cd" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Business_Logic\" />
-    <Folder Include="Controller\" />
     <Folder Include="Model_Project\Hierarchy\1 Level\" />
     <Folder Include="Model_Project\Hierarchy\2 Level\" />
     <Folder Include="Model_Project\Hierarchy\3 Level\" />
