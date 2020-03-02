@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model_Project\Container\Container.cs" />
+    <Compile Include="Model_Project\Exception\MyException.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -53,7 +54,6 @@
   <ItemGroup>
     <Folder Include="Business_Logic\" />
     <Folder Include="Controller\" />
-    <Folder Include="Model_Project\Exception\" />
     <Folder Include="Model_Project\Inreface\" />
     <Folder Include="User_Interface\" />
     <Folder Include="View_Project\" />
