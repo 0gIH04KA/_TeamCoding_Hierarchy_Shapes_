@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controller\" />
+    <Folder Include="Model_Project\Container\" />
     <Folder Include="Model_Project\Inreface\" />
     <Folder Include="View_Project\" />
   </ItemGroup>
