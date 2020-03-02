@@ -10,6 +10,8 @@ namespace _02_03_2020_TeamCoding_Hierarchy_Shapes_
     {
         #region ---===    Protected    ===---
 
+        //ToDo:     Список задач для дальнейшей реализации виден внутри всего проекта. На эти задачи легко переходить
+
         #endregion
 
         #region ---===    Get / Set    ===---
