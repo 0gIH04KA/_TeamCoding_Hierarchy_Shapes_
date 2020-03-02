@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model_Project\Inreface\IGeometrical.cs" />
     <Compile Include="Model_Project\Container\Container.cs" />
     <Compile Include="Model_Project\Exception\MyException.cs" />
     <Compile Include="Program.cs" />
@@ -54,7 +55,6 @@
   <ItemGroup>
     <Folder Include="Business_Logic\" />
     <Folder Include="Controller\" />
-    <Folder Include="Model_Project\Inreface\" />
     <Folder Include="User_Interface\" />
     <Folder Include="View_Project\" />
   </ItemGroup>
