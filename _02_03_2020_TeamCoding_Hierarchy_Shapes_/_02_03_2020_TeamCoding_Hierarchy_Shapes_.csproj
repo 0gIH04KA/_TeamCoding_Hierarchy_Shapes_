@@ -53,6 +53,7 @@
   <ItemGroup>
     <Folder Include="Business_Logic\" />
     <Folder Include="Controller\" />
+    <Folder Include="Model_Project\Exception\" />
     <Folder Include="Model_Project\Inreface\" />
     <Folder Include="User_Interface\" />
     <Folder Include="View_Project\" />
