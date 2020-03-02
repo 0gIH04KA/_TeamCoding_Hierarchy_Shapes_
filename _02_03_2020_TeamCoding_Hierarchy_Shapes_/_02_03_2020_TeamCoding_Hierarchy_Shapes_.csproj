@@ -51,6 +51,7 @@
     <Compile Include="Model_Project\Exception\MyException.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View_Project\User_Interface\UI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -62,8 +63,6 @@
     <Folder Include="Model_Project\Hierarchy\1 Level\" />
     <Folder Include="Model_Project\Hierarchy\2 Level\" />
     <Folder Include="Model_Project\Hierarchy\3 Level\" />
-    <Folder Include="User_Interface\" />
-    <Folder Include="View_Project\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
