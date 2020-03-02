@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _02_03_2020_TeamCoding_Hierarchy_Shapes_
 {
-    class Figure
+    abstract class Figure
     {
     }
 }
