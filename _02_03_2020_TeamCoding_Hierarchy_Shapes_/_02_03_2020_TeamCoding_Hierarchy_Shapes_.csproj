@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model_Project\ENUM\Direction.cs" />
     <Compile Include="Model_Project\ENUM\Action.cs" />
     <Compile Include="Model_Project\Inreface\IGeometrical.cs" />
     <Compile Include="Model_Project\Container\Container.cs" />
