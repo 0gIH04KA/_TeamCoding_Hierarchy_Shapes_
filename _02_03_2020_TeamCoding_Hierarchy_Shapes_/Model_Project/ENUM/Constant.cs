@@ -8,5 +8,8 @@ namespace _02_03_2020_TeamCoding_Hierarchy_Shapes_
 {
     class Constant
     {
+        public const int MAX_WIDTH = 120;
+        public const int MAX_HEIGHT = 30;
+
     }
 }
