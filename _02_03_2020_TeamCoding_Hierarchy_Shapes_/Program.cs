@@ -19,11 +19,13 @@ namespace _02_03_2020_TeamCoding_Hierarchy_Shapes_
             Console.ForegroundColor = old;
 
             Point point2 = new Point(3, 3);
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.SetCursorPosition(point2.PosX, point2.PosY);
             Console.WriteLine("*");
             Console.ForegroundColor = old;
 
+
+            Console.ReadKey();
         }
     }
 }
